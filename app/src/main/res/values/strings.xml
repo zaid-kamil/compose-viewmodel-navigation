@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">compose-view-model-demo-one</string>
+    <string name="back_button">go back</string>
+    <string name="detail_screen_title">Contact Detail</string>
+    <string name="add_screen_title">Add new contact</string>
+    <string name="start_screen_title">Contacts</string>
+</resources>
